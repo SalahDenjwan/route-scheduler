@@ -1,0 +1,15 @@
+# Node
+node_modules/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# DB
+*.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
