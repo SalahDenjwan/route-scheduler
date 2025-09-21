@@ -108,8 +108,7 @@ npx prisma migrate dev --name init
 npx prisma generate
 Start the server:
 
-bash
-Copy code
+ 
 npm run dev
 Test the API using Postman or any similar tool.
 Base URL: http://localhost:3000
